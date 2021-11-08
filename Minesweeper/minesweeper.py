@@ -5,7 +5,7 @@
                 ##      Fichier - Librairie       ##
                 ##  Nom Librairie - minesweeeper  ##
                 ##   Touches Utiles - BGS / BDS   ##
-                ##         Luc-Alexandre          ##
+                ##             FougR              ##
                 ##           17/10/2021           ##
                 ####################################
                 ####################################
