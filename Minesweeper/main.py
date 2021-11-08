@@ -4,7 +4,7 @@
                 ##        Version - 5         ##
                 ##    Fichier - Principal     ##
                 ## Touches Utiles - BGS / BDS ##
-                ##       Luc-Alexandre        ##
+                ##           FougR            ##
                 ##         17/10/2021         ##
                 ################################
                 ################################
